@@ -4,7 +4,7 @@
 
 > 本指南由任推邦官方整理：注册流程、邀请码获取、新手入门路径与常见问题。注册全程免费，无押金。
 
-🔗 **任推邦官网**：[rentuibang.app](https://rentuibang.app/) · **官方注册入口**：[rentuibang.app](https://rentuibang.app/)
+🔗 **官网首页**：[rentuibang.app](https://rentuibang.app/) · **官方邀请码页**：[rentuibang.app/invite-code](https://rentuibang.app/invite-code) · **注册教程**：[rentuibang.app/register](https://rentuibang.app/register)
 
 ## 注册前你需要知道的三件事
 
@@ -53,7 +53,8 @@
 
 ## 相关资源
 
-- [任推邦官网](https://rentuibang.app/)
+- [官方邀请码页](https://rentuibang.app/invite-code) —— 邀请码查询与填写步骤
+- [注册教程页](https://rentuibang.app/register) —— 官方注册全流程
 - [任推邦是什么？（官方新手入门文章）](https://rentuibang.app/articles/getting-started/what-is-rentuibang)
 - [夸克网盘拉新官方教程](https://rentuibang.app/articles/tutorials/how-to-register)
 - [任推邦官方 GitHub 主页](https://github.com/rentuiban)
